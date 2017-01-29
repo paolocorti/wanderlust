@@ -179,6 +179,46 @@ html, body {
   background-image: url('./images/g2.jpg');
 }
 
+.p-3 {
+  background-image: url('./images/p3.jpg');
+}
+
+.g-3 {
+  background-image: url('./images/g3.jpg');
+}
+
+.p-4 {
+  background-image: url('./images/p4.jpg');
+}
+
+.g-4 {
+  background-image: url('./images/g4.jpg');
+}
+
+.p-5 {
+  background-image: url('./images/p5.jpg');
+}
+
+.g-5 {
+  background-image: url('./images/g5.jpg');
+}
+
+.p-6 {
+  background-image: url('./images/p6.jpg');
+}
+
+.g-6 {
+  background-image: url('./images/g6.jpg');
+}
+
+.p-7 {
+  background-image: url('./images/p7.jpg');
+}
+
+.g-7 {
+  background-image: url('./images/g7.jpg');
+}
+
 .grid {
 	position: relative;
 	margin: 0 auto;
