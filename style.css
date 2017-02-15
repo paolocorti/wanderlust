@@ -576,6 +576,14 @@ figure.effect-chico:hover h2 {
     min-height: 280px;
 	}
 
+  .grid figure.thailand {
+		display: inline-block;
+		float: none;
+		margin: 0 auto;
+		width: 100%;
+    min-height: 280px;
+	}
+
   figcaption h2 {
     font-size: 22px;
   }
