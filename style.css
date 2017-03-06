@@ -403,6 +403,141 @@ html, body {
   background-image: url('./images/g28.jpg');
 }
 
+.g-29 {
+  background-image: url('./images/g29.jpg');
+}
+
+.p-29 {
+  background-image: url('./images/p29.jpg');
+}
+
+.g-30 {
+  background-image: url('./images/g30.jpg');
+}
+
+.p-30 {
+  background-image: url('./images/p30.jpg');
+}
+
+.g-31 {
+  background-image: url('./images/g31.jpg');
+}
+
+.p-31 {
+  background-image: url('./images/p31.jpg');
+}
+
+.g-32 {
+  background-image: url('./images/g32.jpg');
+}
+
+.p-32 {
+  background-image: url('./images/p32.jpg');
+}
+
+.g-33 {
+  background-image: url('./images/g33.jpg');
+}
+
+.p-33 {
+  background-image: url('./images/p33.jpg');
+}
+
+.g-34 {
+  background-image: url('./images/g34.jpg');
+}
+
+.p-34 {
+  background-image: url('./images/p34.jpg');
+}
+
+.p-35 {
+  background-image: url('./images/p35.jpg');
+}
+
+.g-35 {
+  background-image: url('./images/g35.jpg');
+}
+
+.p-36 {
+  background-image: url('./images/p36.jpg');
+}
+
+.g-36 {
+  background-image: url('./images/g36.jpg');
+}
+.p-37 {
+  background-image: url('./images/p37.jpg');
+}
+
+.g-37 {
+  background-image: url('./images/g37.jpg');
+}
+.p-38 {
+  background-image: url('./images/p38.jpg');
+}
+
+.g-38 {
+  background-image: url('./images/g38.jpg');
+}
+.p-39 {
+  background-image: url('./images/p39.jpg');
+}
+
+.g-39 {
+  background-image: url('./images/g39.jpg');
+}
+.p-40 {
+  background-image: url('./images/p40.jpg');
+}
+
+.g-40 {
+  background-image: url('./images/g40.jpg');
+}
+.p-41 {
+  background-image: url('./images/p41.jpg');
+}
+
+.g-41 {
+  background-image: url('./images/g41.jpg');
+}
+.p-42 {
+  background-image: url('./images/p42.jpg');
+}
+
+.g-42 {
+  background-image: url('./images/g42.jpg');
+}
+.p-43 {
+  background-image: url('./images/p43.jpg');
+}
+
+.g-43 {
+  background-image: url('./images/g43.jpg');
+}
+.p-44 {
+  background-image: url('./images/p44.jpg');
+}
+
+.g-44 {
+  background-image: url('./images/g44.jpg');
+}
+.p-45 {
+  background-image: url('./images/p45.jpg');
+}
+
+.g-45 {
+  background-image: url('./images/g45.jpg');
+}
+
+.p-46 {
+  background-image: url('./images/p46.jpg');
+}
+
+.g-46 {
+  background-image: url('./images/g46.jpg');
+}
+
 .grid {
 	position: relative;
 	margin: 0 auto;
@@ -435,6 +570,18 @@ html, body {
   height: 32vw;
 	width: 50%;
 	background: #202647;
+	text-align: center;
+	cursor: pointer;
+}
+
+.grid figure.laos {
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+	min-width: 320px;
+  height: 32vw;
+	width: 50%;
+	background: #20473a;
 	text-align: center;
 	cursor: pointer;
 }
@@ -583,6 +730,14 @@ figure.effect-chico:hover h2 {
 		width: 100%;
     min-height: 280px;
 	}
+
+  .grid figure.laos {
+    display: inline-block;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    min-height: 280px;
+  }
 
   figcaption h2 {
     font-size: 22px;
