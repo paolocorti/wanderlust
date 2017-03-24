@@ -76,6 +76,11 @@ html, body {
 
 }
 
+.country-link {
+  display: flex;
+  width: 25%;
+}
+
 .country-logo {
   position: absolute;
   top: 50%;
@@ -84,6 +89,13 @@ html, body {
   height: 300px;
   margin-left: -150px;
   margin-top: -150px;
+}
+
+.country-logo-home {
+  width: 100%;
+  height: 100%;
+  float: left;
+  cursor: pointer;
 }
 
 .title {
@@ -131,7 +143,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('./images/main.jpg');
+  /*background-image: url('./images/main.jpg');*/
   background-size: cover;
   position: relative;
 }
@@ -799,6 +811,14 @@ figure.effect-chico:hover h2 {
 }
 
 @media screen and (max-width: 50em) {
+  .myanmar {
+    flex-direction: column;
+    height:900px;
+    justify-content: flex-start;
+  }
+  .country-link {
+    width: 75%;
+  }
 	.content {
 		padding: 0 10px;
 		text-align: center;
