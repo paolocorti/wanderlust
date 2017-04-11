@@ -638,6 +638,196 @@ html, body {
   background-image: url('./images/g57.jpg');
 }
 
+.p-58 {
+  background-image: url('./images/p58.jpg');
+}
+
+.g-58 {
+  background-image: url('./images/g58.jpg');
+}
+
+.p-59 {
+  background-image: url('./images/p59.jpg');
+}
+
+.g-59 {
+  background-image: url('./images/g59.jpg');
+}
+
+.p-60 {
+  background-image: url('./images/p60.jpg');
+}
+
+.g-60 {
+  background-image: url('./images/g60.jpg');
+}
+
+.p-61 {
+  background-image: url('./images/p61.jpg');
+}
+
+.g-61 {
+  background-image: url('./images/g61.jpg');
+}
+
+.p-62 {
+  background-image: url('./images/p62.jpg');
+}
+
+.g-62 {
+  background-image: url('./images/g62.jpg');
+}
+
+.p-63 {
+  background-image: url('./images/p63.jpg');
+}
+
+.g-63 {
+  background-image: url('./images/g63.jpg');
+}
+
+.p-64 {
+  background-image: url('./images/p64.jpg');
+}
+
+.g-64 {
+  background-image: url('./images/g64.jpg');
+}
+
+.p-65 {
+  background-image: url('./images/p65.jpg');
+}
+
+.g-65 {
+  background-image: url('./images/g65.jpg');
+}
+
+.p-66 {
+  background-image: url('./images/p66.jpg');
+}
+
+.g-66 {
+  background-image: url('./images/g66.jpg');
+}
+
+.p-67 {
+  background-image: url('./images/p67.jpg');
+}
+
+.g-67 {
+  background-image: url('./images/g67.jpg');
+}
+
+.p-68 {
+  background-image: url('./images/p68.jpg');
+}
+
+.g-68 {
+  background-image: url('./images/g68.jpg');
+}
+
+.p-69 {
+  background-image: url('./images/p69.jpg');
+}
+
+.g-69 {
+  background-image: url('./images/g69.jpg');
+}
+
+.p-70 {
+  background-image: url('./images/p70.jpg');
+}
+
+.g-70 {
+  background-image: url('./images/g70.jpg');
+}
+
+.p-71 {
+  background-image: url('./images/p71.jpg');
+}
+
+.g-71 {
+  background-image: url('./images/g71.jpg');
+}
+
+.p-72 {
+  background-image: url('./images/p72.jpg');
+}
+
+.g-72 {
+  background-image: url('./images/g72.jpg');
+}
+
+.p-73 {
+  background-image: url('./images/p73.jpg');
+}
+
+.g-73 {
+  background-image: url('./images/g73.jpg');
+}
+
+.p-74 {
+  background-image: url('./images/p74.jpg');
+}
+
+.g-74 {
+  background-image: url('./images/g74.jpg');
+}
+
+.p-75 {
+  background-image: url('./images/p75.jpg');
+}
+
+.g-75 {
+  background-image: url('./images/g75.jpg');
+}
+
+.p-76 {
+  background-image: url('./images/p76.jpg');
+}
+
+.g-76 {
+  background-image: url('./images/g76.jpg');
+}
+
+.p-77 {
+  background-image: url('./images/p77.jpg');
+}
+
+.g-77 {
+  background-image: url('./images/g77.jpg');
+}
+.p-78 {
+  background-image: url('./images/p78.jpg');
+}
+
+.g-78 {
+  background-image: url('./images/g78.jpg');
+}
+.p-79 {
+  background-image: url('./images/p79.jpg');
+}
+
+.g-79 {
+  background-image: url('./images/g79.jpg');
+}
+
+.p-80 {
+  background-image: url('./images/p80.jpg');
+}
+
+.g-80 {
+  background-image: url('./images/g80.jpg');
+}
+
+.p-81 {
+  background-image: url('./images/p81.jpg');
+}
+
+.g-81 {
+  background-image: url('./images/g81.jpg');
+}
+
 .grid {
 	position: relative;
 	margin: 0 auto;
@@ -682,6 +872,18 @@ html, body {
   height: 32vw;
 	width: 50%;
 	background: #20473a;
+	text-align: center;
+	cursor: pointer;
+}
+
+.grid figure.cambodia {
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+	min-width: 320px;
+  height: 32vw;
+	width: 50%;
+	background: #474320;
 	text-align: center;
 	cursor: pointer;
 }
@@ -840,6 +1042,14 @@ figure.effect-chico:hover h2 {
 	}
 
   .grid figure.laos {
+    display: inline-block;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    min-height: 280px;
+  }
+
+  .grid figure.cambodia {
     display: inline-block;
     float: none;
     margin: 0 auto;
